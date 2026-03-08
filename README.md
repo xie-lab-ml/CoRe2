@@ -20,9 +20,9 @@ tags:
 - weak-to-strong guidance
 --- -->
 
-# The Official Implementation of our Arxiv 2025 paper:
+# The Official Implementation of our TPAMI paper:
 
-> **CoRe^2: _Collect, Reflect and Refine_ to Generate Better and Faster**
+> **Improved and Accelerated Text-to-Image Generation with Collect, Reflect, and Refine**
 
 Authors:
 
